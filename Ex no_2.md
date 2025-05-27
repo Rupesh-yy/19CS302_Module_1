@@ -1,4 +1,3 @@
-
 # EX 2 C program to check whether the attendance is PRESENT using simple if statement.
 ## DATE: 21.02.2025
 ## AIM:
@@ -16,8 +15,6 @@ To write a program to check whether the attendance is PRESENT using simple if st
 
 ## Program:
 ```
-/*
-Program to initialize the value as 5.8 & display the same.
 Developed by: RUPESH J
 RegisterNumber:  212222060204
 #include<stdio.h> 
