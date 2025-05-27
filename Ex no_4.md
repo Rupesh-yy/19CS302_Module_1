@@ -1,4 +1,3 @@
-
 # EX 4 C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
 ## DATE: 21.02.2025
 ## AIM:
