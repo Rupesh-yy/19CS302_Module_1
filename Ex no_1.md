@@ -1,16 +1,14 @@
-# EX 1 C a program to find the sum of two integer numbers.
+# EX 1 C program to initialize the value as 5.8 & display the same.
 ## DATE:
 ## AIM:
-    To write a program to find the sum of two integer numbers.
+To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-
-1. Start.
-2. Declare three integer variables.
-3. Get the input from the user.
-4. Initialize the third variable with the sum of the other two variables.
-5. Print the sum of the two numbers.
-6. Stop
+1. Start 
+2. Declare a variable value of type int 
+3. Initialize value with value 5.8. 
+4. Print the value of value using printf. 
+5. End .  
 
 ## Program:
 ```
@@ -18,20 +16,19 @@
 Program to initialize the value as 5.8 & display the same.
 Developed by: RUPESH J
 RegisterNumber:  212222060204
-#include<stdio.h>
-int main(){
-int a,b;
-scanf("%d %d",&a,&b);
-printf("Sum of %d and %d=%d",a,b,(a+b));
-return 0;
-}
-*/
+#include<stdio.h> 
+int main() 
+{ 
+float a =5.800000; 
+printf ("%.1f",a); 
+return 0; 
+ 
+} 
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d29ff570-7c69-489a-8bbe-8828f4fca9f4)
 
-
+![image](https://github.com/user-attachments/assets/5d7cae15-de01-4775-b062-3bc839f21cff)
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
